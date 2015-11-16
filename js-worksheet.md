@@ -3,8 +3,10 @@
 ####Topic: JavaScript
 
 * Explain what a function is. Give an example.
+* A: A functon is a code that performs a task, such as alert();
 * Explain what a parameter is. Give an example.
-* When we want to look up what a word means, we go to a dictionary. Similarly, when we want to look up what a standard JavaScript function does, we look at _______________.
+* A: A parameter is anything within the parenthesis.
+* When we want to look up what a word means, we go to a dictionary. Similarly, when we want to look up what a standard JavaScript function does, we look at the console log.
 * In the following piece of code, what variable(s) are in scope at Point A, Point B, and 
 Point C?
 
@@ -13,15 +15,15 @@ var hooligan = true;
 
 function hva() {
   var num = 3;
-  // Point A
+  //Point A
 }
 
 function rocks() {
   var str = "scope";
-  // Point B
+  //Point B
 }
 
-// Point C
+//Point C
 ```
 * What does the following code print?
 
@@ -41,5 +43,6 @@ someFunction();
 ####Some review
 * Close this HTML element (remember HTML??): `<h2> My Books`
 * What HTML element is used to create an **ordered list** of items?
+* A: HTML element "ol".
 * Write a CSS rule that will make only the word *Adams* red:
 `<span id="first">Washington </span><span id="second">Adams </span><span id="third>Jefferson</span>"`
